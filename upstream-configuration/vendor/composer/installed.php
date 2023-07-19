@@ -262,6 +262,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'drupal/token' => array(
+            'pretty_version' => '1.12.0',
+            'version' => '1.12.0.0',
+            'reference' => '8.x-1.12',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../drupal/token',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'egulias/email-validator' => array(
             'pretty_version' => '4.0.1',
             'version' => '4.0.1.0',
